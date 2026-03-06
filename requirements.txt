@@ -1,0 +1,51 @@
+# Core LLM Providers
+openai
+google-generativeai
+groq
+mistralai
+huggingface
+
+# LangChain Ecosystem (for orchestration)
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+langchain-huggingface
+
+# Vector Databases
+faiss-cpu
+chromadb
+
+# Embeddings & Transformers
+transformers
+sentence-transformers
+tiktoken
+
+# Backend API (if building server)
+fastapi
+uvicorn
+
+# Environment & Config
+python-dotenv
+pydantic
+
+# Async & HTTP
+httpx
+requests
+
+# Data Handling
+numpy==2.3.5
+pandas
+
+# File Processing (RAG use case)
+pypdf
+python-docx
+
+# Tokenization / Utils
+regex
+tqdm
+
+# Streamlit (chatbot frontend)
+streamlit
